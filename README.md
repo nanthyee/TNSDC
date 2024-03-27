@@ -1,2 +1,2 @@
 # TNSDC
-Handwritten Digit
+Handwritten Digit  RECOGNITION
